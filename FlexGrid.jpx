@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--JBuilder XML Project-->
+<project>
+  <property category="runtime.0" name="RunnableType" value="com.borland.jbuilder.runtime.ApplicationRunner" />
+  <property category="runtime.0" name="application.class" value="de.bo.swing.FlexGridLayout" />
+  <property category="runtime.0" name="appserver.ejbJarsSaved" value="1" />
+  <property category="runtime.0" name="appserver.parameters" value="-jts -jns -jss -jdb" />
+  <property category="runtime.0" name="appserver.servername" value="ejbcontainer" />
+  <property category="runtime.0" name="appserver.vmparameters" value="" />
+  <property category="runtime.0" name="jsprunner.docbase" value="." />
+  <property category="runtime.0" name="jsprunner.jspfile" value="../../" />
+  <property category="sys" name="BackupPath" value="bak" />
+  <property category="sys" name="CheckStable" value="1" />
+  <property category="sys" name="Company" value="" />
+  <property category="sys" name="Copyright" value="Copyright (c) 2001" />
+  <property category="sys" name="DefaultPackage" value="de.bo.swing" />
+  <property category="sys" name="Description" value="" />
+  <property category="sys" name="DocPath" value="doc" />
+  <property category="sys" name="ExcludeClassEnabled" value="0" />
+  <property category="sys" name="JDK" value="java 1.3.1-b24" />
+  <property category="sys" name="LastTag" value="0" />
+  <property category="sys" name="Libraries" value="Open Tools SDK;JBCL" />
+  <property category="sys" name="MakeStable" value="0" />
+  <property category="sys" name="OutPath" value="classes" />
+  <property category="sys" name="SourcePath" value="src" />
+  <property category="sys" name="Title" value="" />
+  <property category="sys" name="Version" value="1.0" />
+  <property category="sys" name="WorkingDirectory" value="." />
+  <property category="team" name="ignorePath.0" value="classes" />
+  <node type="Archive" name="OpenTool">
+    <property category="archiving" name="archiverClass" value="com.borland.jbuilder.wizard.archive.OpenToolArchiver" />
+    <property category="archiving" name="overrideManifestPath" value="classes.opentools" />
+    <property category="archiving" name="targetCompressed" value="1" />
+    <property category="archiving" name="targetPath" value="FlexGrid.jar" />
+  </node>
+  <file path="classes.opentools" />
+  <file path="FlexGrid.html" />
+</project>
+
