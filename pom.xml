@@ -11,12 +11,6 @@
   </properties>
   <dependencies>
     <dependency>
-      <groupId>com.borland</groupId>
-      <artifactId>jbcl</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
@@ -24,4 +18,3 @@
     </dependency>
   </dependencies>
 </project>
-mvn install:install-file -Dfile=jbcl.jar -DgroupId=com.borland -DartifactId=jbcl -Dversion=1.0.0 -Dpackaging=jar 
