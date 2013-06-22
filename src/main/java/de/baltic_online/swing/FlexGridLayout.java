@@ -3,7 +3,7 @@
  *
  * (C)2000 Baltic Online Computer GmbH
  */
-package de.bo.swing;
+package de.baltic_online.swing;
 
 import java.awt.*;
 import java.awt.event.*;

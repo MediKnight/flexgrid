@@ -1,4 +1,4 @@
-package de.bo.swing;
+package de.baltic_online.swing;
 
 import java.awt.*;
 

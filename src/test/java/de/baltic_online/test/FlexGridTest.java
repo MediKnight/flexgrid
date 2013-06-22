@@ -1,10 +1,10 @@
-package de.bo.test;
+package de.baltic_online.test;
 
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-import de.bo.swing.*;
+import de.baltic_online.swing.*;
 
 public class FlexGridTest extends JFrame {
 

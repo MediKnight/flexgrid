@@ -1,8 +1,8 @@
-package de.bo.test;
+package de.baltic_online.test;
 
 import java.awt.*;
 import javax.swing.*;
-import de.bo.swing.*;
+import de.baltic_online.swing.*;
 
 public class LayoutTest extends JFrame {
     JButton jButton1 = new JButton();
