@@ -4,6 +4,5 @@
 	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="var" path="M2_REPO/com/borland/jbcl/1.0.0/jbcl-1.0.0.jar"/>
-	<classpathentry kind="lib" path="junit-4.11.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
